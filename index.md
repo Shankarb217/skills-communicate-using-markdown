@@ -4,3 +4,4 @@
 #### it is heading 4
 ##### it is heading 5
 ###### it is heading 6
+![Image of Yactocat](https://octodex.github.com/images/yaktocat.png)
